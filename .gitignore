@@ -1,0 +1,9 @@
+# Distribution
+node_modules
+
+# Logs
+*.log*
+logs
+
+# Environment
+*.env*
